@@ -55,6 +55,6 @@
     "workerDirectory": "public"
   },
   "devDependencies": {
-    "@webpack-cli/generators": "^2.4.2"
+    "@webpack-cli/generators": "^2.5.0"
   }
 }
